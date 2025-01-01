@@ -4,7 +4,7 @@ Nested Routing: A React Application for Cricket Enthusiasts
  Overview
  
 The "3- Nested Routing" project is a sophisticated web application developed using React,
- designed to showcase the power and flexibility of nested routing with React Router. This
+designed to showcase the power and flexibility of nested routing with React Router. This
  application focuses on the world of cricket, allowing users to access detailed information about
  cricket teams, players, and matches. By structuring the application to support a multi-level
  menu, users can easily navigate through related content, enhancing their overall experience.
