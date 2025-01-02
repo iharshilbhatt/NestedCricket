@@ -14,3 +14,10 @@ modern web development practices and principles.
 ## Key Features
 
 ### Nested Routing
+
+ - At the core of this project is the implementation of nested routing, which is crucial for creating a
+ seamless user experience. The application’s routing structure is designed to enable users to
+ delve deeper into content without navigating away from the main page. For example, users can
+ click on a team to view its details, such as the captain, coach, and championships won. This
+ hierarchical approach not only keeps the interface organized but also allows users to explore
+ related information quickly and efficiently
