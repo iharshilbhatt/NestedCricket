@@ -10,3 +10,5 @@ cricket teams, players, and matches. By structuring the application to support a
 menu, users can easily navigate through related content, enhancing their overall experience.
 The project aims to provide an interactive and user-friendly interface while demonstrating
 modern web development practices and principles.
+
+ Key Features
