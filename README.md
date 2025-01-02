@@ -21,3 +21,4 @@ modern web development practices and principles.
  click on a team to view its details, such as the captain, coach, and championships won. This
  hierarchical approach not only keeps the interface organized but also allows users to explore
  related information quickly and efficiently
+
