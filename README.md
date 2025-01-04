@@ -29,3 +29,7 @@ modern web development practices and principles.
  adapts gracefully to different screen sizes.
  . Whether users access the application from a mobile
  device, tablet, or desktop, they will experience a consistent and visually engaging interface.
+ This
+ responsiveness is critical in today’s digital landscape, where users expect applications to
+ function seamlessly across various devices
+ 
