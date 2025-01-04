@@ -28,7 +28,6 @@ modern web development practices and principles.
  Tailwind’s utility-first CSS framework allows for the creation of a visually appealing layout that
  adapts gracefully to different screen sizes. Whether users access the application from a mobile
  device, tablet, or desktop, they will experience a consistent and visually engaging interface.
- This
- responsiveness is critical in today’s digital landscape, where users expect applications to
+ This responsiveness is critical in today’s digital landscape, where users expect applications to
  function seamlessly across various devices
  
