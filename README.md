@@ -22,7 +22,7 @@ modern web development practices and principles.
  hierarchical approach not only keeps the interface organized but also allows users to explore
  related information quickly and efficiently.
 
- Responsive Design
+ ### Responsive Design
 
   The project employs Tailwind CSS for styling, ensuring that the application is fully responsive.
  Tailwind’s utility-first CSS framework allows for the creation of a visually appealing layout that
