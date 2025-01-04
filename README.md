@@ -23,4 +23,5 @@ modern web development practices and principles.
  related information quickly and efficiently.
 
  Responsive Design
- 
+
+  The project employs Tailwind CSS for styling, ensuring that the application is fully responsive.
