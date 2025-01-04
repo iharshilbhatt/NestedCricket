@@ -22,3 +22,5 @@ modern web development practices and principles.
  hierarchical approach not only keeps the interface organized but also allows users to explore
  related information quickly and efficiently.
 
+ Responsive Design
+ 
