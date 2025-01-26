@@ -38,13 +38,15 @@ The application uses Tailwind CSS, a utility-first CSS framework, to ensure resp
 
 - Consistent typography and spacing across all devices.
 
-##3. Dynamic Content Rendering
+## 3. Dynamic Content Rendering
 
 - The application leverages React’s component-based architecture to render content dynamically. Features include:
 
 - Fetching and displaying team, player, and match data based on user interactions.
 
 - Optimized rendering with React’s state and props for real-time updates without page reloads.
+
+-  Contextual content presentation for different sections, ensuring relevant data is displayed seamlessly.
 
 
 
