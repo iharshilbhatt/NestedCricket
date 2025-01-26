@@ -56,7 +56,7 @@ Accessibility is a cornerstone of this project. Implemented features include:
 
 - Support for keyboard navigation to ensure all interactive elements are accessible.
 
-Color contrast ratios optimized for readability.
+- Color contrast ratios optimized for readability.
 
 Descriptive alt text for all images to aid screen readers.
 
