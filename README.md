@@ -52,9 +52,9 @@ The application uses Tailwind CSS, a utility-first CSS framework, to ensure resp
 
 Accessibility is a cornerstone of this project. Implemented features include:
 
-**ARIA** roles and attributes for improved navigation using assistive technologies.
+- **ARIA** roles and attributes for improved navigation using assistive technologies.
 
-Support for keyboard navigation to ensure all interactive elements are accessible.
+- Support for keyboard navigation to ensure all interactive elements are accessible.
 
 Color contrast ratios optimized for readability.
 
