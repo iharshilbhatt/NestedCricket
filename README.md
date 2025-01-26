@@ -18,5 +18,5 @@ At the heart of this project is its implementation of nested routing using React
 
 <ol>Match schedules and details are also available, organized hierarchically under a separate section.</ol>
 
-<ol>This hierarchical navigation ensures that users can explore related content intuitively, enhancing their overall experience.</ol>
+This hierarchical navigation ensures that users can explore related content intuitively, enhancing their overall experience.
 
