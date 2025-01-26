@@ -60,7 +60,7 @@ Accessibility is a cornerstone of this project. Implemented features include:
 
 - Descriptive alt text for all images to aid screen readers.
 
-By adhering to WCAG (Web Content Accessibility Guidelines), the application promotes inclusivity and usability for all users.
+By adhering to **WCAG (Web Content Accessibility Guidelines)**, the application promotes inclusivity and usability for all users.
 
 
 
