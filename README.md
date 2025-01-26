@@ -38,5 +38,11 @@ The application uses Tailwind CSS, a utility-first CSS framework, to ensure resp
 
 - Consistent typography and spacing across all devices.
 
+##3. Dynamic Content Rendering
+
+- The application leverages React’s component-based architecture to render content dynamically. Features include:
+
+-
+
 
 
