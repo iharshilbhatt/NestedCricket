@@ -42,7 +42,9 @@ The application uses Tailwind CSS, a utility-first CSS framework, to ensure resp
 
 - The application leverages React’s component-based architecture to render content dynamically. Features include:
 
--
+- Fetching and displaying team, player, and match data based on user interactions.
+
+
 
 
 
