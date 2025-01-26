@@ -50,6 +50,8 @@ The application uses Tailwind CSS, a utility-first CSS framework, to ensure resp
 
 ## 4. Accessibility Considerations
 
+Accessibility is a cornerstone of this project. Implemented features include:
+
 
 
 
