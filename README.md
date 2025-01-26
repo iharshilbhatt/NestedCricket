@@ -48,6 +48,8 @@ The application uses Tailwind CSS, a utility-first CSS framework, to ensure resp
 
 -  Contextual content presentation for different sections, ensuring relevant data is displayed seamlessly.
 
+## 4. Accessibility Considerations
+
 
 
 
